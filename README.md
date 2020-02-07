@@ -10,6 +10,18 @@ Dreamhouse is a sample application for the real estate business built on the Sal
 
 ## Table of contents
 
+# DreamHouse Aura Sample Application
+
+> IMPORTANT: This is the Aura version of the DreamHouse sample application. If you are looking for the new Lightning Web Components version, click [here](https://github.com/dreamhouseapp/dreamhouse-lwc).
+
+![dreamhouse-logo](dreamhouse-logo.png)
+
+[![CircleCI](https://circleci.com/gh/dreamhouseapp/dreamhouse-sfdx.svg?style=svg)](https://circleci.com/gh/dreamhouseapp/dreamhouse-sfdx)
+
+Dreamhouse is a sample application for the real estate business built on the Salesforce platform. It allows brokers to manage their properties and customers to find their dream house.
+
+## Table of contents
+
 * [Installation instructions](#installation-instructions)
     * [Installing DreamHouse using Salesforce DX](#installing-dreamhouse-using-salesforce-dx)
     * [Installing DreamHouse using an unlocked package](#installing-dreamhouse-using-an-unlocked-package)
